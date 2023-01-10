@@ -1,5 +1,6 @@
 # spice-optimizator
 Optimizator of Spice-parameters for NMOS Level 3 Model 
+![Figure_1](https://user-images.githubusercontent.com/99616450/211632864-12b1cbe9-60e2-4177-9f1b-31117284a832.png)
 
 ## Instruction:
 * Set up ini configuration file.
